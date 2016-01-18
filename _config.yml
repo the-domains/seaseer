@@ -1,0 +1,28 @@
+name: seaseer
+favicon: null
+layout_spectrum: 0.3158676808234304
+typography_spectrum: 0.8980175224132836
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.42943632416427135
+  lightness: 0.19006893085315824
+  saturation: 0.1496576159261167
+  rhythmicContrast: 0.4785238029435277
+purpose: []
