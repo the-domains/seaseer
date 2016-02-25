@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[seaseer]]></title>
         <description><![CDATA[seaseer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/seaseer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 04:11:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 04:11:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/seaseer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2148366e-36c1-4e8c-90af-e6ba0ae73073.PNG">]]></description>
-            <link>undefined96b5f9c8-8e27-4c3b-a01e-6ad851cd11c8/index.html</link>
+            <link>https://thegrid.ai/seaseer/96b5f9c8-8e27-4c3b-a01e-6ad851cd11c8/index.html</link>
             <guid isPermaLink="false">96b5f9c8-8e27-4c3b-a01e-6ad851cd11c8</guid>
-            <pubDate>Thu, 25 Feb 2016 04:08:19 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 04:11:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
