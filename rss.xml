@@ -4,8 +4,15 @@
         <description><![CDATA[seaseer]]></description>
         <link>https://thegrid.ai/seaseer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 22:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 22:35:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seaseer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Perception Template]]></title>
+            <description><![CDATA[<article><h1>Perception Template</h1><p>circular loops correspond to cerebral-spatial cognitive threads</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3da2c2ee2ffa3aa3551c4a3188c758f7ff07ed32.jpg"></article>]]></description>
+            <link>https://thegrid.ai/seaseer/e14fea10-ed0c-4a30-b37a-f43e0fdce559/index.html</link>
+            <guid isPermaLink="false">e14fea10-ed0c-4a30-b37a-f43e0fdce559</guid>
+            <pubDate>Fri, 04 Mar 2016 22:35:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Autonomous Data Handler]]></title>
             <description><![CDATA[<article><h1>Autonomous Data Handler</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1b54c0ee1ab9b54bd46d6573e6e5b985b2300e3.png"></article>]]></description>
