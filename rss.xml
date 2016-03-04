@@ -4,7 +4,7 @@
         <description><![CDATA[seaseer]]></description>
         <link>https://thegrid.ai/seaseer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 03:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 22:22:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/seaseer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Stories of great ships that sailed the seas between forested coasts that are now only sand]]></title>
@@ -40,13 +40,6 @@
             <link>https://thegrid.ai/seaseer/68911438-e44e-4198-a922-a10764d954db/index.html</link>
             <guid isPermaLink="false">68911438-e44e-4198-a922-a10764d954db</guid>
             <pubDate>Sun, 28 Feb 2016 03:25:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Logic Web]]></title>
-            <description><![CDATA[<article><h1>Logic Web</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ab6346124228330de932779a50037e1f39796d2.png"></article>]]></description>
-            <link>https://thegrid.ai/seaseer/96b5f9c8-8e27-4c3b-a01e-6ad851cd11c8/index.html</link>
-            <guid isPermaLink="false">96b5f9c8-8e27-4c3b-a01e-6ad851cd11c8</guid>
-            <pubDate>Sun, 28 Feb 2016 00:58:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
